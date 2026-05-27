@@ -12,3 +12,5 @@ Retail operations needed a centralized analytics engine to identify shipping ful
 ## 💡 Key Business Insights Discovered
 - **Logistics Bottlenecks:** Remote territories like Amazonas (AM) and Acre (AC) suffer from the highest average transit delays past delivery estimates, signaling a critical need to distribute inventory to localized regional fulfillment hubs.
 - **Customer Velocity:** Repeat customer retention maintains a baseline return interval of 77.9 days, capturing 3,345 transactions across the current lifecycle.
+### 📊 Dataset Source
+The raw data utilized for this project is sourced from the [Kaggle Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
